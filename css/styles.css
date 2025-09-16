@@ -48,3 +48,9 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+h1 {
+    color: rgb(rgb(18, 91, 227), green, blue);
+    text-align: center;
+    margin-top: 20px;
+}
